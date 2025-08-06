@@ -4,4 +4,5 @@ All mathematical operations are implemented manually using core formulas, Taylor
 
 ## 📹 Demo
 
-[![Watch the Demo](https://img.icons8.com/color/48/youtube-play.png)](Media/2025-08-06 22-00-28.mkv)
+![Demo](Media/2025-08-0622-00-28-ezgif.com-video-to-gif-converter.gif)
+
