@@ -4,5 +4,5 @@ All mathematical operations are implemented manually using core formulas, Taylor
 
 ## 📽️ Demo
 
-[▶️ Click to watch demo video](Scientific_Calculator_Using_Python_Demo.mp4)
+https://github.com/user-attachments/assets/c2a3304d-f9ae-49d6-b39e-f749261bb22e
 
